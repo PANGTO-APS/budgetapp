@@ -3,3 +3,5 @@ Javascriptでの収支ウェブアプリです。
 * 収支入力
 * 削除
 * 収支計算表示
+
+[![](https://ibb.co/GsZ8L4w)](https://ibb.co/GsZ8L4w)
