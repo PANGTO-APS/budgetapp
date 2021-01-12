@@ -4,5 +4,5 @@ Javascriptでの収支ウェブアプリです。
 * 削除
 * 収支計算表示
 
-![Image](https://www.photobox.co.uk/my/photo/full?photo_id=503670551548)
+![uppic.cc image](https://uppic.cc/d/FZFElBEUS-YGx8_gqfqlA)
 Format: ![Alt text](url)
