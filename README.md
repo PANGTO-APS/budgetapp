@@ -4,4 +4,4 @@ Javascriptでの収支ウェブアプリです。
 * 削除
 * 収支計算表示
 
-![image](https://uppic.cc/d/FZFElBEUS-YGx8_gqfqlA.jpg)
+[Imgur](https://imgur.com/5B0VZWB.png)
